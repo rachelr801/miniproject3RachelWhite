@@ -54,22 +54,17 @@ pip install pandas matplotlib
  
 ## Authors
  
-Contributors names and contact info
- 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Rachel White, r_white4@mail.fhsu.edu
  
 ## Version History
  
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
  
 ## License
- 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
+## AI Usage
+I wrote the code myself and had Claude run it to check for errors. I had several syntax errors related to indentations and allowed Claude to fix those. Claude's edits looked correct so I did not have to rewrite anything. I started writing the readme file and asked Claude to finish writing it.
  
 ## Acknowledgments
  
