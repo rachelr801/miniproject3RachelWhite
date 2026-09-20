@@ -64,7 +64,7 @@ Rachel White, r_white4@mail.fhsu.edu
 ## License
 
 ## AI Usage
-I wrote the code myself and had Claude run it to check for errors. I had several syntax errors related to indentations and allowed Claude to fix those. Claude's edits looked correct so I did not have to rewrite anything. I started writing the readme file and asked Claude to finish writing it.
+I wrote the code myself and had Claude run it to check for errors. I had several syntax errors related to indentations and allowed Claude to fix those. Claude's edits looked correct so I did not have to rewrite anything. I started writing the readme file and asked Claude to finish writing it. I also used Claude to commit and push the files to GitHub.
  
 ## Acknowledgments
  
